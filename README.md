@@ -11,6 +11,15 @@ The following methodologies will be employed: Random Forest, XGBoost, Support Ve
 
 This project will use the Python programming language to conduct exploratory data analysis and to develop the training models.
 
+
+## Project Workflow
+
+* Data description
+* Data cleaning
+* Exploratory data analysis
+* Data Modelling
+* Interpretation the results
+
 ## References
 
 Marr, B. (2021, July 13). How much data do we create every day? The mind-blowing stats everyone should read. Bernard Marr. Retrieved September 26, 2022, from https://bernardmarr.com/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read/
