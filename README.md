@@ -16,7 +16,8 @@ The following methodologies will be employed to predict the sentiment of a tweet
 * Data cleaning
 * Exploratory data analysis
 * Data Modelling
-* Interpretation the results
+* Interpretating the results
+
 
 ## References
 
